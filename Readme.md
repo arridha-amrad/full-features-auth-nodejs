@@ -16,4 +16,6 @@ How to use this repo
       - SENDER_PASSWORD
 
 4. to use forgot password feature follow this link https://www.lifewire.com/get-a-password-to-access-gmail-by-pop-imap-2-1171882
-5. to test it, run it using postman
+5. to test it, 
+    - npm run server
+    - run it using postman
