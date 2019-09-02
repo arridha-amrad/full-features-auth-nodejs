@@ -10,5 +10,8 @@ mongoose.connection.on('error', err => {
   console.log(`DB connection error : ${err.message}`)
 })
 
+// init middleware
+app.use(express.json({ extended: false }))
+
 const PORT = process.env.PORT || 5000
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`))
