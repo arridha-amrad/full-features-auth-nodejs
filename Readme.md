@@ -1,7 +1,7 @@
-Featured of this repository
-*Signup
-*Login
-*ForgotPassword
+Features of this repository
+1. Signup
+2. Login
+3. ForgotPassword
 
 How to use this repo
 1. clone
